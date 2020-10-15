@@ -21,3 +21,5 @@ const theme = {
     ...roboto.styles
   }
 }
+
+export default theme
